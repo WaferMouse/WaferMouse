@@ -12,4 +12,4 @@ A multitool plugin for the Elite Dangerous Market Connector tool, a third-party 
 A work-in-progress graphics editor that targets the Sega Mega Drive.
 
 ### mcInstaglam - https://github.com/WaferMouse/mcInstaglam
-Very old, a combination of a Minecraft bukkit plugin and a Python script to automate rendering a Minecraft world in blender using a game client command.
+Very old, a Python script to automate rendering a Minecraft world in blender based on a YAML file.
